@@ -1,4 +1,4 @@
-# Capstone Blog Website withou database
+# Capstone Blog Website without database
 
 A simple blog platform built with Node.js, Express, and EJS. Users can create, update, and delete blog posts. The UI uses Tailwind CSS for styling.
 
